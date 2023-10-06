@@ -1,13 +1,13 @@
-package Dio.Santanderdevwork2023;
+package Dio.me;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SantanderDevWork2023Application {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SantanderDevWork2023Application.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }
